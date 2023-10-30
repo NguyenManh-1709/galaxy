@@ -116,8 +116,8 @@ renderer.setAnimationLoop(() => {
 
 
 var i = 0;
-var txt1 = "For you, Sa ❤️";
-var speed = 50;
+var txt1 = "Love you ❤️";
+var speed = 200;
 typeWriter();
 function typeWriter() {
   if (i < txt1.length) {
